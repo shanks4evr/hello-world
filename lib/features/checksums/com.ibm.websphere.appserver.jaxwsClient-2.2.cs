@@ -1,0 +1,26 @@
+#Mon Feb 27 04:06:23 GMT 2017
+lib/com.ibm.ws.org.apache.neethi.3.0.2_1.0.16.jar=e258ae9980b2c5279edb808811f4f81e
+lib/com.ibm.ws.org.apache.cxf-rt-management.2.6.2_1.0.16.jar=052051db56d9b8abb077ff820d76f0a8
+lib/com.ibm.ws.org.apache.cxf-rt-databinding-jaxb.2.6.2_1.0.16.jar=b06517b7a378729030bd2d7303525ba8
+lib/features/com.ibm.websphere.appserver.jaxwsClient-2.2.mf=9783796cc424d28b7015da89dded23be
+lib/com.ibm.ws.org.apache.cxf-rt-bindings-xml.2.6.2_1.0.16.jar=b0486098cdc32cc298ec1c0b74f50bbf
+dev/api/spec/com.ibm.websphere.prereq.wsdl4j.api_1.0.16.jar=cefa78797355d42275f3090e803eaed8
+dev/api/spec/com.ibm.websphere.javaee.jaxws.2.2_1.0.16.jar=c484bfc945d29e95027881a03735689f
+lib/com.ibm.ws.org.apache.cxf-rt-frontend-simple.2.6.2_1.0.16.jar=a8a7e61bd4f60b3db9dfa0927fb55939
+lib/com.ibm.ws.org.apache.cxf-rt-ws-addr.2.6.2_1.0.16.jar=0a8ce7e9f5f3b9fc5644bee07183c59d
+lib/com.ibm.ws.javaee.ddmodel.wsbnd_1.0.16.jar=3593ad0fe8e4a8a736ef54c95d8930b1
+lib/com.ibm.ws.org.apache.cxf-rt-frontend-jaxws.2.6.2_1.0.16.jar=3e0299bfdba50aa1325734af8d767a27
+lib/com.ibm.ws.org.apache.xml.resolver.1.2_1.0.16.jar=7fc39932f5c72dc61e8181f8fe6e39b9
+lib/com.ibm.ws.prereq.wsdl4j.1.6.2_1.0.16.jar=36af21a944d9042c81e1398e0117002b
+bin/jaxws/tools/ws-wsimport.jar=36a1bc23ba1cb69a46cc3aec2b914d46
+lib/com.ibm.ws.org.apache.cxf-rt-ws-policy.2.6.2_1.0.16.jar=1c940564854083bd1da9c0cf772d4a8c
+lib/com.ibm.ws.org.apache.cxf-rt-bindings-soap.2.6.2_1.0.16.jar=361b6963baef848baad56cdd0f35a685
+bin/jaxws/tools/ws-wsgen.jar=dddb54c8fc1cfc95dc599725f7eab102
+lib/com.ibm.ws.org.apache.cxf-rt-transports-http.2.6.2_1.0.16.jar=135467f434962952c87c67a19a3d7d9a
+lib/com.ibm.ws.org.apache.cxf-rt-core.2.6.2_1.0.16.jar=97105d23f28f55a813b11c9cfd8bdb1c
+lib/com.ibm.ws.org.apache.ws.xmlschema.core.2.0.3_1.0.16.jar=6774cff28f3e72da0ca2e3f674575aeb
+lib/com.ibm.ws.jaxws.tools.2.2.10_1.0.16.jar=b194701c8532174ce0c018ede88301b8
+lib/com.ibm.ws.jaxws.clientcontainer_1.0.16.jar=bbece3f6742842b607ae46da77e50348
+lib/com.ibm.ws.org.apache.cxf-api.2.6.2_1.0.16.jar=d37a1cab6985e5034486d432c2dd3236
+dev/api/spec/com.ibm.websphere.javaee.wsdl4j.1.2_1.0.16.jar=f1f3b52c8cc6523f05a36b2068da76f4
+dev/api/ibm/schema/ibm-ws-bnd_1_0.xsd=f883cf9b0a2a4a4562c99e7874cd07c1
